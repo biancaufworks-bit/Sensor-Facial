@@ -5,3 +5,6 @@ Linguagens usadas pra fazer o projeto! :
 - python
 - mediapipe
 - OpenCv
+
+Como usar :
+ele pergunta no terminal se você é homem ou mulher, e depois prossegue coma identificação da expressões!
