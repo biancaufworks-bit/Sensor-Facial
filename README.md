@@ -11,12 +11,12 @@ ele pergunta no terminal se você é homem ou mulher, e depois prossegue coma id
 
 | FELIZ |
 |---|
-| ![FELIZ](happy.ex) |
+| ![FELIZ](happy.ex.png) |
 
 | TRISTE |
 |---|
-| ![TRISTE](sad.ex) |
+| ![TRISTE](sad.ex.png)) |
 
 | SUPEITO |
 |---|
-| ![SUSPEITO](sus.ex) |
+| ![SUSPEITO](sus.ex.png)) |
