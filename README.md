@@ -8,3 +8,15 @@ Linguagens usadas pra fazer o projeto! :
 
 Como usar :
 ele pergunta no terminal se você é homem ou mulher, e depois prossegue coma identificação da expressões!
+
+| FELIZ |
+|---|
+| ![FELIZ](happy.ex) |
+
+| TRISTE |
+|---|
+| ![TRISTE](sad.ex) |
+
+| SUPEITO |
+|---|
+| ![SUSPEITO](sus.ex) |
